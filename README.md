@@ -1,0 +1,1 @@
+Esse é uma pasta de experimentos com o GIT, não levem nenhuma informação a serio.
